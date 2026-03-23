@@ -1,0 +1,1 @@
+This is me writiting text to prove i can git commit, git add and git push origin main etc.
